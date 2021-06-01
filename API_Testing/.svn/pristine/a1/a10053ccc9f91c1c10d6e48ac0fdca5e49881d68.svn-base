@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95939" started-at="2019-06-27T04:57:51Z" finished-at="2019-06-27T04:59:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95939" started-at="2019-06-27T04:57:51Z" finished-at="2019-06-27T04:59:26Z">
+      <class name="com.TestScripts.Communication_Api_Test">
+        <test-method status="PASS" signature="Inbox_verify()[pri:1, instance:com.TestScripts.Communication_Api_Test@25bbe1b6]" name="Inbox_verify" duration-ms="87633" started-at="2019-06-27T04:57:51Z" finished-at="2019-06-27T04:59:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Inbox_verify -->
+        <test-method status="PASS" signature="communicationDetails()[pri:2, instance:com.TestScripts.Communication_Api_Test@25bbe1b6]" name="communicationDetails" duration-ms="8275" started-at="2019-06-27T04:59:18Z" finished-at="2019-06-27T04:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- communicationDetails -->
+      </class> <!-- com.TestScripts.Communication_Api_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
